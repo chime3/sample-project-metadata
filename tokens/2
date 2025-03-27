@@ -1,25 +1,29 @@
 {
-    "id": 2,
-    "image": "https://immutable.github.io/sample-project-metadata/tokens/token2.webp",
-    "token_id": "2",
-    "background_color": null,
-    "animation_url": null,
-    "youtube_url": null,
-    "name": "Test zkEVM NFT #2",
-    "description": "This NFT is my second Immutable zkEVM NFT",
-    "external_url": null,
-    "attributes": [
-      {
-        "trait_type": "Hat",
-        "value": "Top Hat"
-      },
-      {
-        "trait_type": "Coat",
-        "value": "Tails"
-      },
-      {
-        "trait_type": "Neck",
-        "value": "Bow Tie"
-      }
-    ]
-  }
+  "id": 2,
+  "image": "https://zww.trillionairethugs.com/og/Banshee_Uncommon_Level1.png",
+  "token_id": "2",
+  "name": "Zombie World OG Banshee Uncommon Level 1 #3",
+  "description": "Trillionaire Thugs Zombie World is a collection of NFTs Weapon related to the Zombie World Mobile Game on iOS and Android.",
+  "attributes": [
+    {
+      "trait_type": "Weapons name",
+      "value": "Banshee"
+    },
+    {
+      "trait_type": "Weapons type",
+      "value": "Submachine gun"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Level",
+      "value": 1
+    },
+    {
+      "trait_type": "OG",
+      "value": "YES"
+    }
+  ]
+}

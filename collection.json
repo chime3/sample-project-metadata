@@ -1,6 +1,28 @@
 {
-    "name": "Immutable zkEVM Sample Project",
+    "name": "Zombie World Weapon",
     "description": "A sample project for minting NFTs on Immutable zkEVM",
-    "image": "https://immutable.github.io/sample-project-metadata/collection.webp",
-    "external_link": "https://immutable.com" 
+    "image": "https://violet-faithful-impala-369.mypinata.cloud/ipfs/QmQjPfpnMPbx3tB7d5u7HEx1FhP9941yUWP4osZRaFyZ6N",
+    "external_link": "https://immutable.com",
+    "attributes": [
+        {
+            "trait_type": "Weapon Type",
+            "value": "none"
+        },
+        {
+            "trait_type": "Weapon Name",
+            "value": "none"
+        },
+        {
+            "trait_type": "Level",
+            "value": "none"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "none"
+        },
+        {
+            "trait_type": "OG",
+            "value": "none"
+        }
+    ]
 }

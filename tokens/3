@@ -1,25 +1,29 @@
 {
-    "id": 3,
-    "image": "https://immutable.github.io/sample-project-metadata/tokens/token3.webp",
-    "token_id": "3",
-    "background_color": null,
-    "animation_url": null,
-    "youtube_url": null,
-    "name": "Test zkEVM NFT",
-    "description": "This NFT is my third Immutable zkEVM NFT",
-    "external_url": null,
-    "attributes": [
-      {
-        "trait_type": "Hat",
-        "value": "Top Hat"
-      },
-      {
-        "trait_type": "Coat",
-        "value": "Tails"
-      },
-      {
-        "trait_type": "Neck",
-        "value": "Bow Tie"
-      }
-    ]
-  }
+  "id": 3,
+  "image": "https://zww.trillionairethugs.com/og/Gemini_Rare_Level1.png",
+  "token_id": 3,
+  "name": "Zombie World OG Gemini Rare Level 1 #4",
+  "description": "Trillionaire Thugs Zombie World is a collection of NFTs Weapon related to the Zombie World Mobile Game on iOS and Android.",
+  "attributes": [
+    {
+      "trait_type": "Weapons name",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Weapons type",
+      "value": "Assault rifle"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Level",
+      "value": 1
+    },
+    {
+      "trait_type": "OG",
+      "value": "YES"
+    }
+  ]
+}
