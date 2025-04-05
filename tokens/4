@@ -1,17 +1,17 @@
 {
   "id": 2,
-  "image": "",
+  "image": "https://zww.trillionairethugs.com/og/Banshee_Uncommon_Level1.png",
   "token_id": "2",
   "name": "Zombie World OG Banshee Uncommon Level 1 #3",
   "description": "Trillionaire Thugs Zombie World is a collection of NFTs Weapon related to the Zombie World Mobile Game on iOS and Android.",
   "attributes": [
     {
       "trait_type": "Weapons name",
-      "value": "Banshee Test"
+      "value": "Banshee"
     },
     {
       "trait_type": "Weapons type",
-      "value": "Submachine gun Test"
+      "value": "Submachine gun"
     },
     {
       "trait_type": "Rarity",
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Level",
-      "value": 3
+      "value": 1
     },
     {
       "trait_type": "OG",
